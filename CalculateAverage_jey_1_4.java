@@ -48,7 +48,7 @@ public class CalculateAverage_jey_1_4 {
 
     }
 
-    static int MUL = 10000;
+    static int MUL = 10;
 
     static class Processor {
 
